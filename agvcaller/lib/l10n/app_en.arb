@@ -1,0 +1,23 @@
+{
+    "success": "Success",
+    "zonea": "Zone A",
+    "zoneb": "Zone B",
+    "zonec": "Zone C",
+    "zoned": "Zone D",
+    "setting": "Settings",
+    "confirmTilte": "Confirm request",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "fail": "Fail",
+    "posHaveTrolley": "Confirm position {position} have Trolley",
+    "posEmpty": "Confirm position {position} is empty",
+    "transferFrom": "TRANSFER PRODUCT FROM",
+    "transferTo": "TRANSFER TO",
+    "warning": "Warning",
+    "noTrolley": "No Trolley at this position",
+    "noStartPoint": "Select start point first",
+    "confirmTransfer": "Transfer Trolley From {zoneStart} - {pointStart} To {zoneEnd} - {pointEnd}",
+    "english": "English",
+    "vietnam": "Vietnamese",
+    "china": "Chinese"
+}

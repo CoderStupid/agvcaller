@@ -1,0 +1,23 @@
+{
+    "success": "Thành công",
+    "zonea": "Khu vực A",
+    "zoneb": "Khu vực B",
+    "zonec": "Khu vực C",
+    "zoned": "Khu vực D",
+    "setting": "Cài đặt",
+    "confirmTilte": "Yêu cầu xác nhận",
+    "cancel": "Hủy",
+    "confirm": "Xác nhận",
+    "fail": "Thất bại",
+    "posHaveTrolley": "Xác nhận vị trí {position} có xe hàng",
+    "posEmpty": "Xác nhận vị trí {position} đang trống",
+    "transferFrom": "CHUYỂN HÀNG TỪ",
+    "transferTo": "CHUYỂN HÀNG ĐẾN",
+    "warning": "CẢNH BÁO",
+    "noTrolley": "Không có xe hàng tại vị trí này",
+    "noStartPoint": "Chọn điểm bắt đầu",
+    "confirmTransfer": "Chuyển hàng từ {zoneStart} - {pointStart} đến {zoneEnd} - {pointEnd}",
+    "english": "Tiếng Anh",
+    "vietnam": "Tiếng Viêt",
+    "china": "Tiếng Trung"
+}
